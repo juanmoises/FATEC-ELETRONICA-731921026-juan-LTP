@@ -2,8 +2,11 @@
 
 int main(void) {
   int x;
-  x=10;
-  printf("Nro decimal: %d...\t",x);
+  //x=10;
+  //Entrada do valor pelo teclado
+  printf("Entre com o valor em decimal: %d:\n");
+  scanf("%i",&x);
+
   //mostra o valor de x em decimal
   printf("Nro octal: %o...\t",x);
   //mostra o valor de x em octal
