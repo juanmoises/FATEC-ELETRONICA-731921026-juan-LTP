@@ -1,5 +1,5 @@
  /****************************************************************************
- FileName:     5CalculadoraResistencia
+ FileName:     6CalculadoraResistenciaEquivalente
  Company:      FATEC Santo Andre
  Author:       Juan Moisés Carvallo Ferreira
  Date:         18/11/2020
