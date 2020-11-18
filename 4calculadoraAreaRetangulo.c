@@ -5,7 +5,7 @@
  Date:         18/11/2020
  
  *****************************************************************************
- File Description: Este programa calcula a area do quadrado.
+ File Description: Este programa calcula a area de um retângulo.
  Change History:
  1.0   18/11/2020  Versão inicial
  
