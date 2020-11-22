@@ -3,7 +3,7 @@
  Company:      FATEC Santo André
  Author:       Juan Moisés Carvallo Ferreira
  Date:         22/11/2020
- Diciplina:    Linguagem e Técnica de Programação     
+ Disciplina:    Linguagem e Técnica de Programação     
  *****************************************************************************
  File Description: Calcula as correntes e as tensões parciais de dois resistores asociados em serie.
  Change History:
