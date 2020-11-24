@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-24T14:10:58.699Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="LVbI_mWtiP0KXzEC0OYl" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-24T14:28:21.987Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="Lt68IqevY1yGme-kT0o_" version="13.10.0" type="github">
   <diagram id="-6XYK5tT2vSQ0VzhzRom" name="Página-1">
     <mxGraphModel dx="2086" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -873,10 +873,10 @@
         <mxCell id="Jz5caGkYzvTY4KPsm6J8-17" value="13" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="280" y="1340" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zCSDBrZh6kCzl_NNgb3K-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zCSDBrZh6kCzl_NNgb3K-3" target="aAwCayTCrIzlKERKmkv0-148">
+        <mxCell id="zCSDBrZh6kCzl_NNgb3K-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zCSDBrZh6kCzl_NNgb3K-3" target="aAwCayTCrIzlKERKmkv0-148" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zCSDBrZh6kCzl_NNgb3K-3" value="&lt;span style=&quot;font-size: 12px&quot;&gt;e_E1,e_r1,e_r2,e_r3,E_r1,E_r2,E_r3,i_r1,i_r2,i_r3,ra,rt,it,ira,E_ra&lt;/span&gt;" style="shape=internalStorage;whiteSpace=wrap;html=1;dx=15;dy=15;rounded=1;arcSize=8;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="zCSDBrZh6kCzl_NNgb3K-3" value="&lt;span style=&quot;font-size: 12px&quot;&gt;e_E1,e_r1,e_r2,e_r3,E_r1,E_r2,E_r3,i_r1,i_r2,i_r3,ra,rt,it,ira,E_ra&lt;/span&gt;" style="shape=internalStorage;whiteSpace=wrap;html=1;dx=15;dy=15;rounded=1;arcSize=8;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry y="280" width="390" height="70" as="geometry" />
         </mxCell>
       </root>
