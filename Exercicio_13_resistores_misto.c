@@ -14,7 +14,7 @@
 #include <stdlib.h>
 
 int main(void) {
-float e_E1,e_r1,e_r2,e_r3,E_r1,E_r2,E_r3,i_r1,i_r2,i_r3,ra,rt,it,ira,E_ra;
+float e_E1,e_r1,e_r2,e_r3,E_r1,E_r2,E_r3,i_r1,i_r2,i_r3,ra,rt,it,i_ra,E_ra;
 
   printf("Digite o valor de E1 : ");
   scanf("%f",&e_E1);
@@ -27,7 +27,7 @@ float e_E1,e_r1,e_r2,e_r3,E_r1,E_r2,E_r3,i_r1,i_r2,i_r3,ra,rt,it,ira,E_ra;
   ra=(e_r2*e_r3)/(e_r2+e_r3);
   rt=e_r1+ra;
   it=e_E1/rt;
-  i_r1=ira=it;
+  i_r1=i_ra=it;
   E_r1=e_r1*it;
   E_ra=ra*it;
   E_r2=E_r3=E_ra;
